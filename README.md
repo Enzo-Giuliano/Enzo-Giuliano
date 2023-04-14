@@ -1,5 +1,5 @@
 <h1 align="center"> Samurai Jack </h1>
-![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/edit/main/README.md)<!--
+
 **Enzo-Giuliano/Enzo-Giuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
