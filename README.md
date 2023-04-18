@@ -1,9 +1,15 @@
 <h1 align="center"> 🖥 Olá! Bem-vindo(a) ao meu GitHub! 💻 </h1>
 
 
+## Quem sou eu?
+Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE no Curso Técnico Integrado em Informática. Aprendi os básicos de Python, e agora estou trilhando na Programação Orientada ao Objeto com Java e JavaScript.
 
-
-
+- 🎂 Tenho 16 anos (**18/08**);
+- 🍄 Sou grande fã da franquia de jogos, Super Mario;
+- 🐧 Pinguim é a melhor ave (não estou aberto para discussões);
+- 🚂 Gosto muito de trens e ferrovias (não sou especialista;
+- ☄ Astronômia é sensacional (favor não confundir com Astrologia);
+- 👨‍🎨 Faço desenhos quando eu não tem absolutamente nada para fazer (ou quando eu sou obrigado).
 
 
 ## Linguagens de programação que eu sei o básico (provavelmente):
