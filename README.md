@@ -25,10 +25,11 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 <div>
 <a href="https://github.com/Enzo-Giuliano">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Giuliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>          
+</div>      
+
+![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)    
           
 ## Meus contatos:
 <div>
 <a href = "mailto:enzo.vilar46@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)
