@@ -1,5 +1,9 @@
 <h1 align="center"> 🖥 Olá! Bem-vindo(a) ao meu GitHub! 💻 </h1>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/125034964/232810243-0665b211-a558-4ffc-9b1e-c0465978be9a.png" width="387px" />
+</div>
+
 
 ## Quem sou eu?
 Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE no Curso Técnico Integrado em Informática. Aprendi os básicos de Python, e agora estou trilhando na Programação Orientada ao Objeto com Java e JavaScript.
