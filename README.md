@@ -8,6 +8,8 @@
 ## Quem sou eu?
 Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE no Curso Técnico Integrado em Informática. Aprendi os básicos de Python, e agora estou trilhando na Programação Orientada ao Objeto com Java e JavaScript.
 
+- :brazil: Brasileiro, nascido na cidade e no estado de São Paulo;
+- 🏠 Atualmente moro em Fortaleza, no estado do Ceará;
 - 🎂 Tenho 16 anos (**18/08**);
 - 🍄 Sou grande fã da franquia de jogos, Super Mario;
 - 🐧 Pinguim é a melhor ave (não estou aberto para discussões);
