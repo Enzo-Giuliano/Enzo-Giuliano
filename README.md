@@ -15,7 +15,7 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 - 🐧 Pinguim é a melhor ave (não estou aberto para discussões);
 - 🚂 Gosto muito de trens e ferrovias (não sou especialista);
 - ☄ Astronômia é sensacional (favor não confundir com Astrologia);
-- 👨‍🎨 Faço desenhos quando eu não tem absolutamente nada para fazer (ou quando eu sou obrigado).
+- 👨‍🎨 Faço desenhos quando eu não tenho absolutamente nada para fazer (ou quando eu sou obrigado).
 
 
 ## Linguagens de programação que eu sei o básico (provavelmente):
