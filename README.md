@@ -27,7 +27,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 ## Minhas estatísticas:
 <div>
 <a href="https://github.com/Enzo-Giuliano">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&layout=compact&langs_count=7&theme=merko"/>                     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Giuliano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&theme=merko"/>                     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Giuliano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>      
 
 ![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)    
