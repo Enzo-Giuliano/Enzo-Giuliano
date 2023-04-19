@@ -21,6 +21,12 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 ## Linguagens de programação que eu sei o básico (provavelmente):
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Ferramentas/Sites que eu utilizo ou já utilizei:
+
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
 ## Sobre os repositórios:
 Tanto os repositórios quanto essa conta, foram e são feitas com a intenção de enriquecer os meus estudos, além de servir como método de avaliação para os meus professores. Por esse motivo, não espere projetos pessoais ou coisas grandes, e sim coisas de estudo da escola. Futuramente, desejo criar uma conta só para isso, mas até lá, espero que gostem das Listas de Exercícios resolvidas tanto por mim, quanto pelo meu amigo e dupla do atual semestre: Anderson Maia Santos.
 
@@ -35,4 +41,3 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 ## Meus contatos:
 <div>
 <a href = "mailto:enzo.vilar46@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
