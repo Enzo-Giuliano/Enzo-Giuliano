@@ -61,7 +61,7 @@ Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu Gi
 </div>
 
           
-## ![mario thumbs up](https://user-images.githubusercontent.com/125034964/233240288-f67c449c-c0cd-4d0e-b035-fa1b27e46bb3.gif) Meus contatos: ![luigi thumbs up](https://user-images.githubusercontent.com/125034964/233240486-80243b23-403f-4665-9f3a-66ef8b65a43c.gif)
+## ![mario thumbs up](https://user-images.githubusercontent.com/125034964/233240288-f67c449c-c0cd-4d0e-b035-fa1b27e46bb3.gif) Meus contatos (o do Discord ainda não funciona): ![luigi thumbs up](https://user-images.githubusercontent.com/125034964/233240486-80243b23-403f-4665-9f3a-66ef8b65a43c.gif)
 <div>
 <a href = "mailto:enzo.vilar46@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 <a href = "628063171512500254"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
