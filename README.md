@@ -40,6 +40,6 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 
 ![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)    
           
-## ![mario thumbs up](https://user-images.githubusercontent.com/125034964/233240288-f67c449c-c0cd-4d0e-b035-fa1b27e46bb3.gif) Meus contatos:
+## ![mario thumbs up](https://user-images.githubusercontent.com/125034964/233240288-f67c449c-c0cd-4d0e-b035-fa1b27e46bb3.gif) Meus contatos: ![luigi thumbs up](https://user-images.githubusercontent.com/125034964/233240486-80243b23-403f-4665-9f3a-66ef8b65a43c.gif)
 <div>
 <a href = "mailto:enzo.vilar46@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
