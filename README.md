@@ -24,7 +24,7 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## ![mario hammer](https://user-images.githubusercontent.com/125034964/233237369-0fec0246-8d0f-4f14-a2f1-0ac55bd9d04f.gif) Ferramentas/Sites que eu utilizo ou já utilizei:![luigi bye](https://user-images.githubusercontent.com/125034964/233237595-849d0290-6413-4f91-be8d-1364663183a6.gif)
+## ![mario hammer](https://user-images.githubusercontent.com/125034964/233237369-0fec0246-8d0f-4f14-a2f1-0ac55bd9d04f.gif) Ferramentas/Sites que eu utilizo ou já utilizei (clique no Replit para ver antigas atividades minhas):![luigi bye](https://user-images.githubusercontent.com/125034964/233237595-849d0290-6413-4f91-be8d-1364663183a6.gif)
 
 <a href = "https://replit.com/@EnzoGiuliano"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" targe="_blank"> ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
