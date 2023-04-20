@@ -52,7 +52,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 ![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)
 
 ## Agradecimentos:
-Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu GitHub, quero carinhosamente agradecê-lo, mesmo que não se tenha muita coisa aqui ainda, já é uma motivação para mim. Se cuide e lembre-se de ser sempre uma Superestrela!! ⭐ 
+Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu GitHub, quero carinhosamente agradecê-lo, mesmo que não se tenha muita coisa aqui ainda, já é uma motivação para mim. Se cuide, lembre-se de acreditar em si mesmo, ir atrás de seus sonhos e o essencial: tomar água. Você é uma Superestrela!! ⭐ 
  
 <div align="center">
 
