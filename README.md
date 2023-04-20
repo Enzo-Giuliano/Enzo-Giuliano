@@ -33,9 +33,19 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 Tanto os repositórios quanto essa conta, foram e são feitas com a intenção de enriquecer os meus estudos, além de servir como método de avaliação para os meus professores. Por esse motivo, não espere projetos pessoais ou coisas grandes, e sim coisas de estudo da escola. Futuramente, desejo criar uma conta só para isso, mas até lá, espero que gostem das Listas de Exercícios resolvidas tanto por mim, quanto pelo meu amigo e dupla do atual semestre: Anderson Maia Santos.
 
 ## ![mario laugh](https://user-images.githubusercontent.com/125034964/233238294-d4117d78-deef-4d42-98e2-fd5628b3d613.gif) Minhas estatísticas: ![luigi laugh](https://user-images.githubusercontent.com/125034964/233238638-3118a2ad-cc29-4ca1-ae2f-02d5cc24ad7d.gif)
-<div>
+<div align="center">
 <a href="https://github.com/Enzo-Giuliano">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&theme=merko"/>                     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Giuliano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&theme=merko"/> 
+</div>
+
+<div align="center">
+
+![luigi clothesline](https://user-images.githubusercontent.com/125034964/233369816-dfd84cf0-fc86-4f20-891d-b0646a374462.gif) 
+
+</div>
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Giuliano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Enzo-Giuliano&theme=github-compact)](https://github.com/Enzo-Giuliano/github-readme-activity-graph)
