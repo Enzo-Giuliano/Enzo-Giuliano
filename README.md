@@ -28,7 +28,7 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-## Sobre os repositórios:
+## ![angry mario](https://user-images.githubusercontent.com/125034964/233235148-0ffebbab-bbe5-4c30-b2d9-fc3ee0d148d6.gif)Sobre os repositórios:
 Tanto os repositórios quanto essa conta, foram e são feitas com a intenção de enriquecer os meus estudos, além de servir como método de avaliação para os meus professores. Por esse motivo, não espere projetos pessoais ou coisas grandes, e sim coisas de estudo da escola. Futuramente, desejo criar uma conta só para isso, mas até lá, espero que gostem das Listas de Exercícios resolvidas tanto por mim, quanto pelo meu amigo e dupla do atual semestre: Anderson Maia Santos.
 
 ## Minhas estatísticas:
