@@ -19,7 +19,7 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 - 👨‍🎨 Faço desenhos quando eu não tenho absolutamente nada para fazer (ou quando eu sou obrigado).
 
 
-## Linguagens de programação que eu sei o básico (provavelmente):
+## ![mario fire](https://user-images.githubusercontent.com/125034964/233233313-5c9a5122-d1e2-44a5-bf8f-9e7a1e8d6e96.gif) Linguagens de programação que eu sei o básico (provavelmente):![luigi thunder](https://user-images.githubusercontent.com/125034964/233233375-73fb7724-1b83-4107-907d-563fc7281870.gif)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
