@@ -51,7 +51,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 
 ![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)
 
-## ![mario clap](https://user-images.githubusercontent.com/125034964/233383407-a2d9c23d-6c57-4ca7-bd44-990e2fbd1b01.gif)Agradecimentos:
+## ![mario clap](https://user-images.githubusercontent.com/125034964/233383407-a2d9c23d-6c57-4ca7-bd44-990e2fbd1b01.gif)Agradecimentos:![bowser walk](https://user-images.githubusercontent.com/125034964/233383695-d859342b-233a-4c0a-b9dd-478f1f8bd828.gif)
 Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu GitHub, quero carinhosamente agradecê-lo, mesmo que não se tenha muita coisa aqui ainda, já é uma motivação para mim. Se cuide, lembre-se de acreditar em si mesmo, ir atrás de seus sonhos e o essencial: tomar água. Você é uma Superestrela!! ⭐ 
  
 <div align="center">
