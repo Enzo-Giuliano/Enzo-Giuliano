@@ -29,7 +29,6 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 ## ![angry mario](https://user-images.githubusercontent.com/125034964/233235148-0ffebbab-bbe5-4c30-b2d9-fc3ee0d148d6.gif)Sobre os repositórios:![bowser](https://user-images.githubusercontent.com/125034964/233235307-5df82717-58bc-41d8-bd1f-e50b91ecf2cc.gif)
-
 Tanto os repositórios quanto essa conta, foram e são feitas com a intenção de enriquecer os meus estudos, além de servir como método de avaliação para os meus professores. Por esse motivo, não espere projetos pessoais ou coisas grandes, e sim coisas de estudo da escola. Futuramente, desejo criar uma conta só para isso, mas até lá, espero que gostem das Listas de Exercícios resolvidas tanto por mim, quanto pelo meu amigo e dupla do atual semestre: Anderson Maia Santos.
 
 ## ![mario laugh](https://user-images.githubusercontent.com/125034964/233238294-d4117d78-deef-4d42-98e2-fd5628b3d613.gif) Minhas estatísticas: ![luigi laugh](https://user-images.githubusercontent.com/125034964/233238638-3118a2ad-cc29-4ca1-ae2f-02d5cc24ad7d.gif)
@@ -50,7 +49,10 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Enzo-Giuliano&theme=github-compact)](https://github.com/Enzo-Giuliano/github-readme-activity-graph)
 
-![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)    
+![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)
+
+## Agradecimentos:
+Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu GitHub, quero carinhosamente agradecê-lo, mesmo que não se tenha muita coisa aqui ainda, já é uma motivação para mim. Se cuide e lembre-se de ser sempre uma Superestrela!! ⭐  
           
 ## ![mario thumbs up](https://user-images.githubusercontent.com/125034964/233240288-f67c449c-c0cd-4d0e-b035-fa1b27e46bb3.gif) Meus contatos: ![luigi thumbs up](https://user-images.githubusercontent.com/125034964/233240486-80243b23-403f-4665-9f3a-66ef8b65a43c.gif)
 <div>
