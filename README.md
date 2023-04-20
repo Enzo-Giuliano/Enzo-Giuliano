@@ -56,7 +56,7 @@ Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu Gi
  
 <div align="center">
 
-![mario   luigi agradecimentos](https://user-images.githubusercontent.com/125034964/233377687-316567ba-2ddc-47e1-bc18-bb91ba5e2912.png)
+![mario   luigi agradecimentos](https://user-images.githubusercontent.com/125034964/233379685-010afbb7-074d-487f-a42a-1f3cc06ba9ed.png)
 
 </div>
 
