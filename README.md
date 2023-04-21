@@ -47,6 +47,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Giuliano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Enzo-Giuliano&theme=merko"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Enzo-Giuliano&theme=github-compact)](https://github.com/Enzo-Giuliano/github-readme-activity-graph)
