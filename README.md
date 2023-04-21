@@ -96,9 +96,9 @@ Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu Gi
 
 ![mario   luigi agradecimentos](https://user-images.githubusercontent.com/125034964/233379685-010afbb7-074d-487f-a42a-1f3cc06ba9ed.png)
 
- Número de Visitas:
+Número de Visitas:
 
-
+![Visitor Count](https://profile-counter.glitch.me/Enzo-Giuliano/count.svg)
 
 </div>
 
