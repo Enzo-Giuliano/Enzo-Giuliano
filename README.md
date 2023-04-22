@@ -10,6 +10,7 @@
 ![mario dancing](https://user-images.githubusercontent.com/125034964/233231778-dd288f4d-8fb9-4694-a30f-923c6a36774e.gif)Quem sou eu? ![luigi dancing](https://user-images.githubusercontent.com/125034964/233232006-6c8fb575-f2cd-46e0-9b66-59a4d3af2b96.gif) 
 
 </h2>
+
 Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE no Curso Técnico Integrado em Informática. Aprendi os básicos de Python, e agora estou trilhando na Programação Orientada ao Objeto, utilizando o Java com o apoio do professor Roger Moura, e JavaScript com o apoio do professor César Olavo. E claro, o principal apoio: minha família e meus amigos.
 
 - :brazil: Brasileiro, nascido na cidade e no estado de São Paulo;
