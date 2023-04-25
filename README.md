@@ -67,7 +67,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 
 <div align="center">
 <a href="https://github.com/Enzo-Giuliano">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&theme=merko"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Giuliano&theme=merko"/> 
 </div>
 
 <div align="center">
