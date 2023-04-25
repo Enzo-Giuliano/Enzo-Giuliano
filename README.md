@@ -91,7 +91,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 
 </h2>
 
-Se você dedicou uma parcela do seu tempo para ler um pouco sobre mim e o meu GitHub, quero carinhosamente agradecê-lo, mesmo que não se tenha muita coisa aqui ainda, já é uma motivação para mim. Se cuide, lembre-se de acreditar em si mesmo, ir atrás de seus sonhos e o essencial: beber água. Você é uma Superestrela!! ⭐ 
+Se você dedicou uma parcela de seu tempo para ler um pouco sobre mim e o meu GitHub, quero carinhosamente agradecê-lo. Mesmo que não se tenha muita coisa aqui ainda, já é uma motivação para mim. Se cuide, lembre-se de acreditar em si mesmo, ir atrás de seus sonhos e o essencial: beber água. Você é uma Superestrela!! ⭐ 
  
 <div align="center">
 
