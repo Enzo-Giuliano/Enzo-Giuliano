@@ -21,7 +21,8 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE 
 - 🚂 Gosto muito de trens e ferrovias (não sou especialista);
 - ☄ Astronômia é sensacional (favor não confundir com Astrologia);
 - ☀ Esperando o próximo Eclipse Solar para admirar (nunca vi um 😢);
-- 👨‍🎨 Faço desenhos quando eu não tenho absolutamente nada para fazer (ou quando eu sou obrigado).
+- 👨‍🎨 Faço desenhos quando eu não tenho absolutamente nada para fazer (ou quando eu sou obrigado);
+- 🐍 Minha maior conquista no GitHub foi fazer o Jogo da Cobrinha funcionar (era algo simples).
 
 
 <h2 align="center"> 
