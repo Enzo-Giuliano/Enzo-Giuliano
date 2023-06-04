@@ -82,7 +82,7 @@ Tanto os repositórios quanto essa conta, foram e são feitas com a intenção d
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Enzo-Giuliano&theme=merko"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Enzo-Giuliano&theme=github-compact)](https://github.com/Enzo-Giuliano/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Giuliano&theme=github-compact)](https://github.com/Enzo-Giuliano/github-readme-activity-graph)
 
 ![Snake animation](https://github.com/Enzo-Giuliano/Enzo-Giuliano/blob/output/github-contribution-grid-snake.svg)
 
