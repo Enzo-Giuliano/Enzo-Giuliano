@@ -58,7 +58,7 @@ As ferramentas que utilizei até o momento foram o site Replit (clique no ícone
 
 </h2>
 
-Tanto os repositórios quanto essa conta, foram e são feitas com a intenção de enriquecer os meus estudos, além de servir como método de avaliação para os meus professores. Por esse motivo, não espere projetos pessoais ou coisas grandes, e sim coisas de estudo da escola. Futuramente, desejo criar uma conta só para esses projetos maiores, mas até lá, espero que gostem das Listas de Exercícios resolvidas tanto por mim, quanto pelo meu amigo e dupla do atual semestre: [Anderson Maia Santos](https://github.com/TheAnders007).
+Tanto os repositórios quanto essa conta, foram e são feitas com a intenção de enriquecer os meus estudos, além de servir como método de avaliação para os meus professores. Por esse motivo, não espere projetos pessoais ou coisas grandes, e sim coisas de estudo da escola. Futuramente, desejo criar uma conta só para esses projetos maiores, mas até lá, espero que gostem das Listas de Exercícios resolvidas tanto por mim, quanto pelo meu amigo e dupla do semestre: [Anderson Maia Santos](https://github.com/TheAnders007) (te adoro cara, sempre quis ser que nem você 😢).
 
 <h2 align="center">
 
