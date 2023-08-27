@@ -11,10 +11,10 @@
 
 </h2>
 
-Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE no Curso Técnico Integrado em Informática. Aprendi os básicos de Python com o professor Davis, Programação Orientada ao Objeto utilizando o Java, com o professor [Roger Moura](https://github.com/rogermsarmento), e JavaScript, com o professor César Olavo como meu orientador. E claro, o principal apoio: minha família e meus amigos.
+Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante do IFCE no Curso Técnico Integrado em Informática. Aprendi os básicos de Python com o professor Davis, Programação Orientada ao Objeto utilizando o Java, com o professor [Roger Moura](https://github.com/rogermsarmento), e JavaScript, com o professor César Olavo. E claro, o principal apoio: minha família e meus amigos (saudades de vocês 😢😢).
 
 - :brazil: Brasileiro, nascido na cidade e no estado de São Paulo;
-- 🏠 Atualmente moro em Fortaleza, no estado do Ceará;
+- 🏠 Atualmente moro nos mesmos lugares citados acima;
 - 🎂 Tenho 17 anos (**18/08**);
 - 🍄 Sou grande fã da franquia de jogos, Super Mario;
 - 🐧 Pinguim é a melhor ave (não estou aberto para discussões);
