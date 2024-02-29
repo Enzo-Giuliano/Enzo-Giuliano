@@ -11,7 +11,7 @@
 
 </h2>
 
-Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante da Etec Zona Leste IFCE no Curso de Desenvolvimento de Sistemas. Aprendi os básicos de Python com o professor Davis, Programação Orientada ao Objeto utilizando o Java, com o professor [Roger Moura](https://github.com/rogermsarmento), e JavaScript, com o professor César Olavo. E claro, o principal apoio: minha família e meus amigos (saudades de vocês 😢😢).
+Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante da Etec Zona Leste no Curso de Desenvolvimento de Sistemas. Aprendi os básicos de Python com o professor Davis, Programação Orientada ao Objeto utilizando o Java, com o professor [Roger Moura](https://github.com/rogermsarmento), e JavaScript, com o professor César Olavo. E claro, o principal apoio: minha família e meus amigos (saudades de vocês 😢😢).
 
 - :brazil: Brasileiro, nascido na cidade e no estado de São Paulo;
 - 🏠 Atualmente moro nos mesmos lugares citados acima;
