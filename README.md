@@ -15,7 +15,7 @@ Salve pessoas! Eu sou Enzo Giuliano Machado Vilar, atualmente estudante da Etec 
 
 - :brazil: Brasileiro, nascido na cidade e no estado de São Paulo;
 - 🏠 Atualmente moro nos mesmos lugares citados acima;
-- 🎂 Tenho 18 anos (**18/08**);
+- 🎂 Tenho 19 anos (**18/08**);
 - 🍄 Sou grande fã da franquia de jogos, Super Mario;
 - 🐧 Pinguim é a melhor ave (não estou aberto para discussões);
 - 🚂 Gosto muito de trens e ferrovias (não sou especialista);
